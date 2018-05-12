@@ -1,0 +1,34 @@
+_repo: Grey-TownAn-Australian-Story_26034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, Gerald
+    gutenberg_agent_id: '31753'
+    url: http://www.gutenberg.org/2009/agents/31753
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Fiction'
+- !lcc 'PR'
+tableOfContents: The Presbytery -- Michael O'Connor -- The Quirks -- Promotion --
+  Denis Quirk -- Readjustment -- "The Observer" Dies -- John Gerard -- Days of Storm
+  and Stress -- Rumour, Hydra-Headed -- Temptation -- Sylvia Jackson -- Denis Refuses
+  to Speak -- "And One Other!" -- Desmond Goes Under -- The Virtue of Grey Town --
+  Father Healy's Mission -- Through the Gorge -- "The Freelance" -- Great is the Truth
+  -- The Bishop's Solution -- A Link Broken -- A Sick Call -- Denis Quirk's Homecoming
+  -- A Proposal -- Good and Evil
+title: 'Grey Town
+
+  An Australian Story'
+url: http://www.gutenberg.org/ebooks/26034
